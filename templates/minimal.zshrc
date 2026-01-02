@@ -13,5 +13,5 @@ plugins=(
   vscode
   z
 )
-
+ZSH="$HOME/dotfiles/oh-my-zsh"
 source $ZSH/oh-my-zsh.sh
