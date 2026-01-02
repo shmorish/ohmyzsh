@@ -2,12 +2,10 @@
 ZSH_THEME="shmorish"
 plugins=(
   alias-finder
-  autojump
   aws
   branch
   brew
   bun
-  cask
   git
   httpie
   vscode
